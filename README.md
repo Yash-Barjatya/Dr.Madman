@@ -16,11 +16,11 @@ Team Members:-
 		Yash
 		Udvas
 		
-My contribution:- -> Helped in the game idea. 
-		  -> Made first person movement script .
-		  -> Made first person camera script .
-		  -> Helped in the design doc and evaluation doc and ppt.
-		  NOTE: Instead of pushing  the script to my forked repo and then pulling to upstream ,I sent the script through WhatsApp to one of my team member due to some                             issues with my github account.
+My contribution:- - Helped in the game idea. 
+		  - Made first person movement script .
+		  - Made first person camera script .
+		  - Helped in the design doc and evaluation doc and ppt.
+		  - NOTE: Instead of pushing  the script to my forked repo and then pulling to upstream ,I sent the script through WhatsApp to one of my team member due to some                             issues with my github account.
 
 Design Doc Link :- https://docs.google.com/document/d/15oiKdfs9Y8A1WapkhmEsURrhRBDxU8ZPBx4H7-7dfC8/edit?usp=sharing
 
