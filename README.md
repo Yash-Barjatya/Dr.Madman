@@ -27,7 +27,6 @@ This game is made as a summer project from GameDev Society(IITK).
 
 - Final Game Built and sample videos of game(Dr. Madman) :- https://drive.google.com/drive/folders/1nkCyzweRe88J4BURZ5O2gBGc2U8aQk0v
 
-- Demo video:
 
 
 
